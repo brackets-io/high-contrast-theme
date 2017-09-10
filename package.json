@@ -4,10 +4,10 @@
     "description": "This is a theme engineered to be colourful and highly contrasting",
     "version": "1.0.0",
     "author": "Ade Adeola <adedotster@gmail.com> (http)",
-    "homepage": "https://github.com/Diorla/high-contrast-theme",
+    "homepage": "https://github.com/Diorla",
     "repository": {
-        "type": "",
-        "url": ""
+        "type": "git",
+        "url": "https://github.com/Diorla/high-contrast-theme"
     },
     "license": "MIT",
     "engines": {
