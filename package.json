@@ -1,0 +1,20 @@
+{
+    "title": "High contrast Theme",
+    "name": "high-contrast",
+    "description": "This is a theme engineered to be colourful and highly contrasting",
+    "version": "1.0.1",
+    "author": "Ade Adeola <adedotstar@yahoo.com> (http://wordpress.myfiche.com)",
+    "homepage": "https://github.com/Diorl/",
+    "repository": {
+        "type": "",
+        "url": ""
+    },
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=1.0.0"
+    },
+    "theme": {
+        "file": "theme.css",
+        "dark": true
+    }
+}
