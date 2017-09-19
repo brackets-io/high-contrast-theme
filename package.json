@@ -2,8 +2,8 @@
     "title": "High contrast Theme",
     "name": "high-contrast",
     "description": "This is a theme engineered to be colourful and highly contrasting",
-    "version": "1.0.0",
-    "author": "Ade Adeola <adedotster@gmail.com> (http)",
+    "version": "1.0.1",
+    "author": "Ade Adeola <adedotster@gmail.com>",
     "homepage": "https://github.com/Diorla/high-contrast-theme",
     "repository": {
         "type": "git",
