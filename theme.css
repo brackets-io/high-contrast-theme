@@ -99,7 +99,6 @@ div.CodeMirror-selected {
 }
 .CodeMirror-matchingtag {
   background-color: lightsalmon;
-  /* text-decoration: underline does not look that well with large font sizes */
   padding-bottom: 0.166em;
 }
 .CodeMirror.cm-keymap-fat-cursor div.CodeMirror-cursor {
